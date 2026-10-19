@@ -5,8 +5,6 @@
 
 **Senior High School Student | Information Technology**
 
-[![Profile Views](https://komarev.com/ghpvc/?username=aikoana&color=ffb6c1&style=flat-square&label=Profile+Views)](https://github.com/aikoana)
-
 </div>
 
 ---

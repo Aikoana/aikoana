@@ -1,6 +1,9 @@
  <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=28&duration=3000&pause=1200&color=C34A73&center=true&vCenter=true&width=500&lines=୨୧+Hi%2C+I'm+Aikoana!+୨୧;Welcome+to+my+little+corner+of+GitHub+♡" alt="Aikoana's animated greeting" />
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=28&duration=3000&pause=1200&color=C34A73&center=true&vCenter=true&width=600&lines=%E0%AD%A8%E0%AD%A7+Hi%2C+I%27m+Aikoana!+%E0%AD%A8%E0%AD%A7;Welcome+to+my+little+corner+of+GitHub+%E2%99%A1"
+       alt="Aikoana's animated greeting" />
+</div>
 
 **Senior High School Student · Information Technology**
 

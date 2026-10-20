@@ -17,8 +17,6 @@ I'm **Aikoana**, also known as **Aiko**.
 
 I'm a Senior High School student specializing in Information Technology. I'm currently learning web development with **HTML, CSS, and JavaScript**, while exploring **Java** as part of my school curriculum.
 
-I use GitHub to document my progress, practice my skills, and share the projects I create along the way.
-
 ### My Toolkit
 
 <div align="center">

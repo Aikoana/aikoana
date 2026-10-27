@@ -32,7 +32,7 @@ I'm a Senior High School student specializing in Information Technology. I'm cur
 
 <div align="center">
 
-*“Progress doesn't have to be perfect.*
+*Progress doesn't have to be perfect.*
 
 *Every project is an opportunity to learn something new.”*
 

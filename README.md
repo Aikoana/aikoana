@@ -67,7 +67,7 @@ I like clean layouts, soft colors, and code that feels as good as it looks.
 <div align="center">
 
 <a href="https://github.com/USERNAME"><img src="https://img.shields.io/badge/GitHub-FFD6E5?style=for-the-badge&logo=github&logoColor=8B3454" alt="GitHub profile" /></a>
-<a href="https://github.com/USERNAME?tab=followers"><img src="https://img.shields.io/github/followers/USERNAME?style=for-the-badge&label=Followers&labelColor=F4A6C1&color=C34A73" alt="GitHub followers" /></a>
+<img src="https://img.shields.io/badge/Status-Always%20Learning-C34A73?style=for-the-badge&labelColor=F4A6C1" alt="Status: Always Learning" />
 
 </div>
 

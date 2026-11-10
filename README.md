@@ -10,7 +10,7 @@
 <a href="#about"><img src="https://img.shields.io/badge/ABOUT-FFD6E5?style=flat-square&labelColor=FFD6E5&color=FFD6E5&logoColor=8B3454" alt="About" /></a>
 <a href="#toolkit"><img src="https://img.shields.io/badge/TOOLKIT-F4A6C1?style=flat-square&labelColor=F4A6C1&color=F4A6C1" alt="Toolkit" /></a>
 <a href="#currently-learning"><img src="https://img.shields.io/badge/LEARNING-E27BA0?style=flat-square&labelColor=E27BA0&color=E27BA0" alt="Learning" /></a>
-<a href="#stats"><img src="https://img.shields.io/badge/STATS-C34A73?style=flat-square&labelColor=C34A73&color=C34A73" alt="Stats" /></a>
+<a href="#connect"><img src="https://img.shields.io/badge/CONNECT-C34A73?style=flat-square&labelColor=C34A73&color=C34A73" alt="Connect" /></a>
 
 </div>
 
@@ -61,13 +61,13 @@ I like clean layouts, soft colors, and code that feels as good as it looks.
 
 <br />
 
-<!-- STATS -->
-<h2 align="center" id="stats">✧ &nbsp;GitHub Stats&nbsp; ✧</h2>
+<!-- CONNECT -->
+<h2 align="center" id="connect">✧ &nbsp;Let's Connect&nbsp; ✧</h2>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&hide_border=true&bg_color=00000000&title_color=C34A73&text_color=8B3454&icon_color=E27BA0&ring_color=C34A73" alt="GitHub stats" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&hide_border=true&bg_color=00000000&title_color=C34A73&text_color=8B3454" alt="Top languages" height="160" />
+<a href="https://github.com/USERNAME"><img src="https://img.shields.io/badge/GitHub-FFD6E5?style=for-the-badge&logo=github&logoColor=8B3454" alt="GitHub profile" /></a>
+<a href="https://github.com/USERNAME?tab=followers"><img src="https://img.shields.io/github/followers/USERNAME?style=for-the-badge&label=Followers&labelColor=F4A6C1&color=C34A73" alt="GitHub followers" /></a>
 
 </div>
 

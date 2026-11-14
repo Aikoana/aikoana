@@ -51,18 +51,10 @@ public class Aiko {
 | JavaScript | DOM manipulation and interactivity | Practicing |
 | Java | Fundamentals from my school curriculum | Getting started |
 
-## Projects
-
-| Project | Description | Tech |
-| :--- | :--- | :--- |
-| [Project name](https://github.com/USERNAME/PROJECT-REPO) | One sentence about what it does. | HTML · CSS · JS |
-| [Project name](https://github.com/USERNAME/PROJECT-REPO) | One sentence about what it does. | Java |
-
-> Replace the rows above with your own work. Even a small class project counts.
 
 ## Connect
 
-<a href="https://github.com/USERNAME"><img src="https://img.shields.io/badge/GitHub-USERNAME-C34A73?style=for-the-badge&logo=github&logoColor=white&labelColor=8B3454" alt="GitHub profile" /></a>
+<a href="https://github.com/Aikoana"><img src="https://img.shields.io/badge/GitHub-USERNAME-C34A73?style=for-the-badge&logo=github&logoColor=white&labelColor=8B3454" alt="GitHub profile" /></a>
 
 <br />
 

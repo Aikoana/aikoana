@@ -1,95 +1,76 @@
-<!-- HEADER -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&customColorList=FFD6E5,F4A6C1,C34A73&section=header&text=Aikoana&fontSize=64&fontColor=FFFFFF&fontAlignY=38&desc=Senior%20High%20School%20%C2%B7%20Information%20Technology&descSize=17&descAlignY=60&animation=fadeIn" alt="Aikoana header banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:8B3454,50:C34A73,100:E27BA0&section=header&text=Aiko&fontSize=64&fontColor=FFFFFF&fontAlignY=38&desc=Senior%20High%20School%20%C2%B7%20Information%20Technology&descSize=17&descAlignY=60&animation=fadeIn" alt="Aiko - Senior High School, Information Technology" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=22&duration=3500&pause=1200&color=C34A73&center=true&vCenter=true&width=560&lines=%E0%AD%A8%E0%AD%A7+Hi%2C+I%27m+Aiko+%E0%AD%A8%E0%AD%A7;Learning+to+build+for+the+web;Making+code+a+little+softer" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=22&duration=3500&pause=1200&color=C34A73&center=true&vCenter=true&width=560&lines=Hi%2C+I'm+Aiko+%E2%9C%A7;Learning+to+build+for+the+web;Making+code+a+little+softer" alt="Typing animation: Hi, I'm Aiko. Learning to build for the web. Making code a little softer." />
 
 <br />
 
-<a href="#about"><img src="https://img.shields.io/badge/ABOUT-FFD6E5?style=flat-square&labelColor=FFD6E5&color=FFD6E5&logoColor=8B3454" alt="About" /></a>
-<a href="#toolkit"><img src="https://img.shields.io/badge/TOOLKIT-F4A6C1?style=flat-square&labelColor=F4A6C1&color=F4A6C1" alt="Toolkit" /></a>
-<a href="#currently-learning"><img src="https://img.shields.io/badge/LEARNING-E27BA0?style=flat-square&labelColor=E27BA0&color=E27BA0" alt="Learning" /></a>
-<a href="#connect"><img src="https://img.shields.io/badge/CONNECT-C34A73?style=flat-square&labelColor=C34A73&color=C34A73" alt="Connect" /></a>
+<img src="https://img.shields.io/badge/Strand-Information%20Technology-C34A73?style=flat-square&labelColor=8B3454" alt="Strand: Information Technology" />
+<img src="https://img.shields.io/badge/Focus-Web%20Development-C34A73?style=flat-square&labelColor=8B3454" alt="Focus: Web Development" />
+<img src="https://img.shields.io/badge/Also%20learning-Java-C34A73?style=flat-square&labelColor=8B3454" alt="Also learning: Java" />
+
+<br /><br />
+
+[About](#about) &nbsp;·&nbsp; [Toolkit](#toolkit) &nbsp;·&nbsp; [Learning](#currently-learning) &nbsp;·&nbsp; [Projects](#projects) &nbsp;·&nbsp; [Connect](#connect)
 
 </div>
 
-<br />
+---
 
-<!-- ABOUT -->
-<h2 align="center" id="about">୨୧ &nbsp;About Me&nbsp; ୨୧</h2>
+## About
 
-<div align="center">
-
-I'm **Aikoana**, but you can call me **Aiko**.
-
-A Senior High School student specializing in **Information Technology**,<br />
-currently growing my skills in **web development** and exploring **Java** through my school curriculum.
+I'm **Aikoana**, but you can call me **Aiko**. I'm a Senior High School student in the **Information Technology** strand, growing my skills in **web development** and exploring **Java** through my school curriculum.
 
 I like clean layouts, soft colors, and code that feels as good as it looks.
 
-</div>
+```java
+public class Aiko {
+    private final String strand = "Senior High School · Information Technology";
+    private final String[] learning = {"Web Development", "JavaScript", "Java"};
+    private final String[] values = {"Clean layouts", "Soft colors", "Readable code"};
+
+    public void greet() {
+        System.out.println("Hi, I'm Aiko! Thanks for stopping by.");
+    }
+}
+```
+
+## Toolkit
+
+<img src="https://img.shields.io/badge/HTML5-C34A73?style=for-the-badge&logo=html5&logoColor=white&labelColor=8B3454" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-C34A73?style=for-the-badge&logo=css3&logoColor=white&labelColor=8B3454" alt="CSS3" />
+<img src="https://img.shields.io/badge/JavaScript-C34A73?style=for-the-badge&logo=javascript&logoColor=white&labelColor=8B3454" alt="JavaScript" />
+<img src="https://img.shields.io/badge/Java-C34A73?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=8B3454" alt="Java" />
+
+## Currently Learning
+
+| Area | What I'm working on | Status |
+| :--- | :--- | :--- |
+| Web Development | Building responsive layouts with HTML & CSS | Building projects |
+| JavaScript | DOM manipulation and interactivity | Practicing |
+| Java | Fundamentals from my school curriculum | Getting started |
+
+## Projects
+
+| Project | Description | Tech |
+| :--- | :--- | :--- |
+| [Project name](https://github.com/USERNAME/PROJECT-REPO) | One sentence about what it does. | HTML · CSS · JS |
+| [Project name](https://github.com/USERNAME/PROJECT-REPO) | One sentence about what it does. | Java |
+
+> Replace the rows above with your own work. Even a small class project counts.
+
+## Connect
+
+<a href="https://github.com/USERNAME"><img src="https://img.shields.io/badge/GitHub-USERNAME-C34A73?style=for-the-badge&logo=github&logoColor=white&labelColor=8B3454" alt="GitHub profile" /></a>
 
 <br />
 
-<!-- TOOLKIT -->
-<h2 align="center" id="toolkit">✧ &nbsp;Toolkit&nbsp; ✧</h2>
-
 <div align="center">
 
-<img src="https://img.shields.io/badge/HTML5-FFD6E5?style=for-the-badge&logo=html5&logoColor=8B3454" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-F4A6C1?style=for-the-badge&logo=css3&logoColor=8B3454" alt="CSS3" />
-<img src="https://img.shields.io/badge/JavaScript-E27BA0?style=for-the-badge&logo=javascript&logoColor=FFFFFF" alt="JavaScript" />
-<img src="https://img.shields.io/badge/Java-C34A73?style=for-the-badge&logo=openjdk&logoColor=FFFFFF" alt="Java" />
-
-</div>
-
-<br />
-
-<!-- CURRENTLY LEARNING -->
-<h2 align="center" id="currently-learning">♡ &nbsp;Currently Learning&nbsp; ♡</h2>
-
-<div align="center">
-
-| Focus | Progress |
-| :---: | :---: |
-| Web Development | ▰▰▰▰▰▰▱▱▱▱ |
-| JavaScript | ▰▰▰▰▱▱▱▱▱▱ |
-| Java | ▰▰▰▱▱▱▱▱▱▱ |
-
-</div>
-
-<br />
-
-<!-- CONNECT -->
-<h2 align="center" id="connect">✧ &nbsp;Let's Connect&nbsp; ✧</h2>
-
-<div align="center">
-
-<a href="https://github.com/USERNAME"><img src="https://img.shields.io/badge/GitHub-FFD6E5?style=for-the-badge&logo=github&logoColor=8B3454" alt="GitHub profile" /></a>
-<img src="https://img.shields.io/badge/Status-Always%20Learning-C34A73?style=for-the-badge&labelColor=F4A6C1" alt="Status: Always Learning" />
-
-</div>
-
-<br />
-
-<!-- QUOTE -->
-<div align="center">
-
-♡ ───────────── ✧ ───────────── ♡
-
-*Progress doesn't have to be perfect.*<br />
+*Progress doesn't have to be perfect.*
 *Every project is an opportunity to learn something new.*
 
-♡ ───────────── ✧ ───────────── ♡
-
-</div>
-
-<!-- FOOTER -->
-<div align="center">
-
-**Thank you for visiting. ♡**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=FFD6E5,F4A6C1,C34A73&section=footer" alt="Footer wave" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:8B3454,50:C34A73,100:E27BA0&section=footer" alt="" width="100%" />
 
 </div>
